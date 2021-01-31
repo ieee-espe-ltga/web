@@ -1,5 +1,5 @@
 /**
-* Template Name: Sailor - v2.3.1
+* Template Name: IEEE-Espe-L - v2.3.1
 * Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
