@@ -856,8 +856,12 @@ section {
   position: relative;
   box-shadow: 0px 2px 15px rgba(85, 98, 112, 0.08);
   padding: 30px;
-  border-radius: 4px;
+  border-radius: 25px;
+  margin: 0px;
   background: white;
+}
+.space{  
+  margin-bottom: 10px;
 }
 
 .team .member .pic {
