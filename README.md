@@ -6,22 +6,17 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## IEEE student branch ESPE Ltga WEB
+&nbsp;
 
+![Logo](assets\img\logo.png "IEEE WEB")
 > This repository does not pretend to give you all answers for **Pluralsight questions**, rather it's a starting guide to help you prepare for the skills quiz and to know what to expect.
 
+&nbsp;
 &nbsp;
 
 ## Getting Started
 
 How do I improve IEEE(**Espel**) - WEB
-
-&nbsp;
-
-![Logo](assets\img\logo.png "IEEE WEB")
-Image 1
-
-&nbsp;
-&nbsp;
 
 Should you have found some issues, or want to contribute, please feel free to create a PR.  
 &nbsp;
